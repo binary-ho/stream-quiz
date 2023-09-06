@@ -18,5 +18,4 @@ class Quiz6Test {
     void quiz2() {
         assertThat(quiz.quiz2()).isEqualTo(answer.quiz2());
     }
-
 }

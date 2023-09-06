@@ -24,5 +24,4 @@ class Quiz1Test {
     void quiz3() throws IOException {
         assertThat(quiz.quiz3()).isEqualTo(answer.quiz3());
     }
-
 }
